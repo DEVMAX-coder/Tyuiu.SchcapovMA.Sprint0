@@ -25,7 +25,7 @@ namespace Tyuiu.SchcapovMA.Sprint0.Task5.V0.Lib
         {
             if (b == 0)
             {
-                Console.WriteLine("Переменная b = {0} на ноль делить нельзя", b);
+                Console.WriteLine("Переменная b = {0} на ноль делить нельзя",b);
                 return -1;
             }
             else
